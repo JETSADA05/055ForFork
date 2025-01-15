@@ -22,7 +22,7 @@
 				<li><a href="contact.php">ติดต่อ...</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">รายละเอียดเพิ่มเติม</li>
-
+				<li><a href="contact.php">รายละเอียดเพิ่มเติมนะ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
